@@ -1,4 +1,4 @@
-# Analyze companies from Bruitan   
+# Analyze companies from UK   
 #### made by [@pelmeshek1706](https://telegram.me/pelmeshek1706)
 
 In this task I needed to build a simple model to explain the total funding raised by one or more variables. 
